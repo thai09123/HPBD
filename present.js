@@ -1,6 +1,6 @@
 
 var to = 'Huyền!';
-var gift_url = 'https://d872003.github.io/HappyBirthdayHuyen/?fbclid=IwAR1t0zjCX70JSc2XZUsbUIsiOMiGkhmrbrCfyvpH-L2FFjdD6nJj4-Z7WFY';
+var gift_url = 'https://d872003.github.io/HappyBirthday/?fbclid=IwAR1t0zjCX70JSc2XZUsbUIsiOMiGkhmrbrCfyvpH-L2FFjdD6nJj4-Z7WFY';
 var gift_image_url = 'huyen.png';
 
 
